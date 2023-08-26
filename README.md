@@ -1,7 +1,6 @@
 # samurai-game
 Samurai game testing
 
-Movement:
-A : Left
-D : Right
+Keys:
+A and D : Movement
 W : Jump
